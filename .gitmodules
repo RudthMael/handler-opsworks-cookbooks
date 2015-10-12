@@ -1,0 +1,4 @@
+[submodule "opsworks_sidekiq"]
+	path = opsworks_sidekiq
+	url = https://github.com/drakerlabs/opsworks_sidekiq.git
+
